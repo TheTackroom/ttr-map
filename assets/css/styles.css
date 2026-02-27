@@ -3001,3 +3001,7 @@ h2[data-text="menu.bounties"] {
 .menu-hidden[data-type="singleplayer"] {
   display: none !important;
 }
+
+.daily-status not-found {
+	display: none !important;
+}
