@@ -30,8 +30,7 @@ class Location {
 
   onLanguageChanged() {
     this.markers = [];
-    this.locations.forEach(item => this.markers.push(new Marker(item.text, item.x, item.y, this.key, item.time)));
-
+    this.locations.forEach(item => this.markers.push(new Marker(item.text, item.x, item.y, this.key, item.time, null, item.desc, item.img)));
     this.reinitMarker();
   }
 
