@@ -87,6 +87,67 @@
       <button data-text="menu.hide_all" class="btn btn-light menu-hide-all" data-help="hide_all">Hide all</button>
       <button data-text="menu.show_all" class="btn btn-light menu-show-all" data-help="show_all">Show all</button>
     </div>
+
+    <div>
+      <div class="menu-option clickable" data-type="boats" data-help="item_category">
+        <span>
+          <img class="icon" src="./assets/images/icons/boats.png" />
+          <span class="menu-option-text" data-text="menu.boats">Boats</span>
+        </span>
+      </div>
+    </div>
+    <div>
+      <div class="menu-option clickable" data-type="trains" data-help="item_category">
+        <span>
+          <img class="icon" src="./assets/images/icons/trains.png" />
+          <span class="menu-option-text" data-text="menu.trains">Trains</span>
+        </span>
+      </div>
+    </div>
+    <div>
+      <div class="menu-option clickable" data-type="campfires" data-help="item_category">
+        <span>
+          <img class="icon" src="./assets/images/icons/campfires.png" />
+          <span class="menu-option-text" data-text="menu.campfires">Campfires</span>
+        </span>
+      </div>
+    </div>
+    <div>
+      <div class="menu-option clickable" data-type="hideouts" data-help="item_category">
+        <span>
+          <img class="icon" src="./assets/images/icons/hideouts.png" />
+          <span class="menu-option-text" data-text="menu.hideouts">Gang Hideouts</span>
+        </span>
+      </div>
+    </div>
+    <div>
+      <div class="menu-option clickable" data-type="dynamic_bounties" data-help="item_category">
+        <span>
+          <img class="icon" src="./assets/images/icons/dynamic_bounties.png" />
+          <span class="menu-option-text" data-text="menu.dynamic_bounties">Dynamic Bounties</span>
+        </span>
+      </div>
+    </div>
+    <div>
+      <div class="menu-option submenu-only" data-type="camps" data-help="item_category">
+        <span>
+          <img class="icon" src="./assets/images/icons/camps.png" />
+          <span class="menu-option-text" data-text="menu.camps">Player Camps</span>
+        </span>
+        <div class="open-submenu"></div>
+      </div>
+      <div class="menu-hidden two-column" data-type="camps">
+        <div class="collection-value">
+          <button data-text="menu.hide_all" class="btn btn-light camps-hide-btn">Hide all</button>
+          <button data-text="menu.show_all" class="btn btn-light camps-show-btn">Show all</button>
+        </div>
+        <div class="collection-value">
+          <button data-text="menu.small_btn" class="btn btn-light camps-small-btn" data-bs-toggle="button">Small</button>
+          <button data-text="menu.large_btn" class="btn btn-light camps-large-btn" data-bs-toggle="button">Large</button>
+          <button data-text="menu.wilderness_btn" class="btn btn-light camps-wilderness-btn" data-bs-toggle="button">Wilderness</button>
+        </div>
+      </div>
+    </div>
     <div>
       <div class="menu-option submenu-only" data-type="plants" data-help="item_category">
         <span>
@@ -102,8 +163,93 @@
         </div>
       </div>
     </div>
+    <div>
+      <div class="menu-option submenu-only" data-type="shops" data-help="item_category">
+        <span>
+          <img class="icon" src="./assets/images/icons/fence.png" />
+          <span class="menu-option-text" data-text="menu.shops">Shops</span>
+        </span>
+        <div class="open-submenu" style="margin: auto 0 auto auto;"></div>
+      </div>
+      <div class="menu-hidden two-column" data-type="shops">
+        <div class="collection-value">
+          <button data-text="menu.hide_all" class="btn btn-light shops-hide-btn">Hide all</button>
+          <button data-text="menu.show_all" class="btn btn-light shops-show-btn">Show all</button>
+        </div>
+      </div>
+    </div>
+
+    <div>
+      <div class="menu-option submenu-only" data-type="fme" data-help="item_category">
+        <span>
+          <img class="icon" src="./assets/images/icons/fme.png" />
+          <span class="menu-option-text" data-text="menu.fme" style="color: #fdc607;">Free Roam events</span>
+        </span>
+        <div class="open-submenu" style="margin: auto 0 auto auto;"></div>
+      </div>
+      <div class="menu-hidden" data-type="fme">
+        <div class="collectible-wrapper" data-help="item" data-type="condor_egg">
+          <img class="collectible-icon" src="./assets/images/icons/condor_egg.png">
+          <span class="collectible-text">
+            <p class="collectible" data-text="menu.condor_egg">Condor Egg</p>
+          </span>
+        </div>
+        <div class="collectible-wrapper" data-help="item" data-type="salvage">
+          <img class="collectible-icon" src="./assets/images/icons/salvage.png">
+          <span class="collectible-text">
+            <p class="collectible" data-text="menu.salvage">Salvage</p>
+          </span>
+        </div>
+      </div>
+    </div>
+    <div>
+      <div class="menu-option submenu-only" data-type="gfh" data-help="item_category">
+        <span>
+          <img class="icon" src="./assets/images/icons/gfh.png" />
+          <span class="menu-option-text" data-text="menu.gfh">Missions</span>
+        </span>
+        <div class="open-submenu" style="margin: auto 0 auto auto;"></div>
+      </div>
+      <div class="menu-hidden two-column" data-type="gfh">
+        <div class="collection-value">
+          <button data-text="menu.hide_all" class="btn btn-light gfh-hide-btn">Hide all</button>
+          <button data-text="menu.show_all" class="btn btn-light gfh-show-btn">Show all</button>
+        </div>
+      </div>
+    </div>
+
+    <div>
+      <div class="menu-option submenu-only" data-type="encounters" data-help="item_category_submenu">
+        <span>
+          <img class="icon" src="./assets/images/icons/random_encounters.png">
+          <span class="menu-option-text" data-text="menu.random_encounters">Random Encounters</span>
+        </span>
+        <div class="open-submenu" style="margin: auto 0 auto auto;"></div>
+      </div>
+      <div class="menu-hidden two-column" data-type="encounters">
+        <div class="collection-value">
+          <button data-text="menu.hide_all" class="btn btn-light encounters-hide-btn">Hide all</button>
+          <button data-text="menu.show_all" class="btn btn-light encounters-show-btn">Show all</button>
+        </div>
+      </div>
+    </div>
 
     <h2 data-text="menu.animals">Animals</h2>
+    <div>
+      <div class="menu-option submenu-only" data-type="legendary_animals" data-help="item_category_submenu">
+        <span>
+          <img class="icon" src="./assets/images/icons/legendary_animals.png">
+          <span class="menu-option-text" data-text="menu.legendary_animals" style="color: #fdc607;">Legendary Animals</span>
+        </span>
+        <div class="open-submenu" style="margin: auto 0 auto auto;"></div>
+      </div>
+      <div class="menu-hidden two-column" data-type="legendary_animals">
+        <div class="collection-value">
+          <button data-text="menu.hide_all" class="btn btn-light">Hide all</button>
+          <button data-text="menu.show_all" class="btn btn-light">Show all</button>
+        </div>
+      </div>
+    </div>
     <div>
       <div class="menu-option submenu-only" data-type="animals" data-help="item_category_submenu">
         <span>
@@ -138,13 +284,164 @@
       </div>
     </div>
 
+    <h2 data-text="menu.bounties">Bounties</h2>
+    <div>
+      <div class="menu-option submenu-only" data-type="bounty_board_track" data-help="item_category_submenu">
+        <span>
+          <img class="icon" src="./assets/images/icons/bounty.png" />
+          <span class="menu-option-text" data-text="menu.bounty_board_track">Tracking Bounties</span>
+        </span>
+        <div class="open-submenu" style="margin: auto 0 auto auto;"></div>
+      </div>
+      <div class="menu-hidden two-column" data-type="bounty_board_track">
+        <div class="collection-value">
+          <button data-text="menu.hide_all" class="btn btn-light bounty-btn">Hide all</button>
+          <button data-text="menu.show_all" class="btn btn-light bounty-btn">Show all</button>
+        </div>
+      </div>
+    </div>
+    <div>
+      <div class="menu-option submenu-only" data-type="bounty_board_stakeout" data-help="item_category_submenu">
+        <span>
+          <img class="icon" src="./assets/images/icons/bounty.png" />
+          <span class="menu-option-text" data-text="menu.bounty_board_stakeout">Stakeout Bounties</span>
+        </span>
+        <div class="open-submenu" style="margin: auto 0 auto auto;"></div>
+      </div>
+      <div class="menu-hidden two-column" data-type="bounty_board_stakeout">
+        <div class="collection-value">
+          <button data-text="menu.hide_all" class="btn btn-light bounty-btn">Hide all</button>
+          <button data-text="menu.show_all" class="btn btn-light bounty-btn">Show all</button>
+        </div>
+      </div>
+    </div>
+    <div>
+      <div class="menu-option submenu-only" data-type="bounty_hideout" data-help="item_category_submenu">
+        <span>
+          <img class="icon" src="./assets/images/icons/bounty.png" />
+          <span class="menu-option-text" data-text="menu.bounty_hideout">Hideout Bounties</span>
+        </span>
+        <div class="open-submenu" style="margin: auto 0 auto auto;"></div>
+      </div>
+      <div class="menu-hidden two-column" data-type="bounty_hideout">
+        <div class="collection-value">
+          <button data-text="menu.hide_all" class="btn btn-light bounty-btn">Hide all</button>
+          <button data-text="menu.show_all" class="btn btn-light bounty-btn">Show all</button>
+        </div>
+      </div>
+    </div>
+    <div>
+      <div class="menu-option submenu-only" data-type="bounty_board_known_target" data-help="item_category_submenu">
+        <span>
+          <img class="icon" src="./assets/images/icons/bounty.png" />
+          <span class="menu-option-text" data-text="menu.bounty_board_known_target">Known Target Bounties</span>
+        </span>
+        <div class="open-submenu" style="margin: auto 0 auto auto;"></div>
+      </div>
+      <div class="menu-hidden two-column" data-type="bounty_board_known_target">
+        <div class="collection-value">
+          <button data-text="menu.hide_all" class="btn btn-light bounty-btn">Hide all</button>
+          <button data-text="menu.show_all" class="btn btn-light bounty-btn">Show all</button>
+        </div>
+      </div>
+    </div>
+    <div>
+      <div class="menu-option submenu-only" data-type="bounty_board_lure" data-help="item_category_submenu">
+        <span>
+          <img class="icon" src="./assets/images/icons/bounty.png" />
+          <span class="menu-option-text" data-text="menu.bounty_board_lure">Lure Bounties</span>
+        </span>
+        <div class="open-submenu" style="margin: auto 0 auto auto;"></div>
+      </div>
+      <div class="menu-hidden two-column" data-type="bounty_board_lure">
+        <div class="collection-value">
+          <button data-text="menu.hide_all" class="btn btn-light bounty-btn">Hide all</button>
+          <button data-text="menu.show_all" class="btn btn-light bounty-btn">Show all</button>
+        </div>
+      </div>
+    </div>
+    <div>
+      <div class="menu-option submenu-only" data-type="bounty_timed" data-help="item_category_submenu">
+        <span>
+          <img class="icon" src="./assets/images/icons/bounty.png" />
+          <span class="menu-option-text" data-text="menu.bounty_timed">Timed Bounties</span>
+        </span>
+        <div class="open-submenu" style="margin: auto 0 auto auto;"></div>
+      </div>
+      <div class="menu-hidden two-column" data-type="bounty_timed">
+        <div class="collection-value">
+          <button data-text="menu.hide_all" class="btn btn-light bounty-btn">Hide all</button>
+          <button data-text="menu.show_all" class="btn btn-light bounty-btn">Show all</button>
+        </div>
+      </div>
+    </div>
+    <div>
+      <div class="menu-option submenu-only" data-type="bounty_board_caged_target" data-help="item_category_submenu">
+        <span>
+          <img class="icon" src="./assets/images/icons/bounty.png" />
+          <span class="menu-option-text" data-text="menu.bounty_board_caged_target">Caged Bounties</span>
+        </span>
+        <div class="open-submenu" style="margin: auto 0 auto auto;"></div>
+      </div>
+      <div class="menu-hidden two-column" data-type="bounty_board_caged_target">
+        <div class="collection-value">
+          <button data-text="menu.hide_all" class="btn btn-light bounty-btn">Hide all</button>
+          <button data-text="menu.show_all" class="btn btn-light bounty-btn">Show all</button>
+        </div>
+      </div>
+    </div>
+
     <div id="utilities-container" class="opened">
       <h2 data-text="menu.utils">Utilities</h2>
+      <div class="menu-option clickable" data-type="nazar" data-help="item_category">
+        <span>
+          <img class="icon" src="./assets/images/icons/nazar.png" alt="Category icon" />
+          <span class="menu-option-text" data-text="menu.madam_nazar">Madam Nazar</span>
+          <img class="nazar-error" src="./assets/images/error.png" alt="">
+        </span>
+      </div>
+      <div class="menu-option clickable" data-type="fasttravel" data-help="item_category">
+        <span>
+          <img class="icon" src="./assets/images/icons/fasttravel.png" />
+          <span class="menu-option-text" data-text="menu.fast_travel">Fast Travel</span>
+        </span>
+      </div>
       <div class="menu-option clickable" data-type="user_pins" data-help="item_category">
         <span>
           <img class="icon" src="./assets/images/icons/pins.png" />
           <span class="menu-option-text" data-text="menu.user_pins">User Pins</span>
         </span>
+      </div>
+      <div>
+        <div class="menu-option clickable" data-type="treasure" data-help="item_category">
+          <span>
+            <img class="icon" src="./assets/images/icons/treasure.png" />
+            <span class="menu-option-text" data-text="menu.treasures">Treasures</span>
+          </span>
+          <div class="open-submenu" style="margin: auto 0 auto auto;"></div>
+        </div>
+        <div class="menu-hidden two-column" data-type="treasure">
+          <div class="collection-value">
+            <button data-text="menu.hide_all" class="btn btn-light">Hide all</button>
+            <button data-text="menu.show_all" class="btn btn-light">Show all</button>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div class="menu-option clickable" data-type="daily_locations" data-help="item_category">
+          <span>
+            <img class="icon" src="./assets/images/icons/daily_locations.png" />
+            <span class="menu-option-text" data-text="menu.daily_locations.name">Daily Challenge Locations</span>
+          </span>
+        </div>
+      </div>
+      <div>
+        <div class="menu-option clickable" data-type="harrietum_animals" data-help="item_category">
+          <span>
+            <img class="icon" src="./assets/images/icons/harrietum_animals.png" />
+            <span data-text="map.harrietum_animals.name">Animal Transform</span>
+          </span>
+        </div>
       </div>
       <div>
         <div class="menu-option clickable" data-type="sightseeing" data-help="item_category">
@@ -154,7 +451,38 @@
           </span>
         </div>
       </div>
+      <div>
+        <div class="menu-option submenu-only" data-type="discoverables" data-help="item_category_submenu">
+          <span>
+            <img class="icon" src="./assets/images/icons/discoverables.png">
+            <span class="menu-option-text" data-text="menu.discoverables">Iconography</span>
+          </span>
+          <div class="open-submenu" style="margin: auto 0 auto auto;"></div>
+        </div>
+        <div class="menu-hidden two-column" data-type="discoverables">
+          <div class="collection-value">
+            <button data-text="menu.hide_all" class="btn btn-light discoverables-hide-btn">Hide all</button>
+            <button data-text="menu.show_all" class="btn btn-light discoverables-show-btn">Show all</button>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div class="menu-option submenu-only" data-type="singleplayer" data-help="item_category_submenu">
+          <span>
+            <img class="icon" src="./assets/images/icons/singleplayer.png">
+            <span class="menu-option-text" data-text="menu.singleplayer">Singleplayer</span>
+          </span>
+          <div class="open-submenu" style="margin: auto 0 auto auto;"></div>
+        </div>
+        <div class="menu-hidden two-column" data-type="singleplayer">
+          <div class="collection-value">
+            <button data-text="menu.hide_all" class="btn btn-light singleplayer-hide-btn">Hide all</button>
+            <button data-text="menu.show_all" class="btn btn-light singleplayer-show-btn">Show all</button>
+          </div>
+        </div>
+      </div>
     </div>
+
     <div id="dailies-container" class="opened">
       <div class="header">
         <span class="header-border"></span>
