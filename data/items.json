@@ -1085,8 +1085,11 @@
     "key": "ttr_wild_horses",
     "locations": [
       {
+        "text": "Wild Horse Spawn",
         "x": -72.6893,
-        "y": 130.4978
+        "y": 130.4978,
+        "desc": "Wild horse spawn location. Catch a wild horse, when you adopt the breed changes into something else.",
+        "img": "orchid_7.jpg"
       },
       {
         "x": -45.3911,
