@@ -2891,4 +2891,113 @@ button.reload-nazar {
   .menu-ad {
     display: block;
   }
+
+}
+
+/* ============================================
+   TTR CUSTOMIZATION - Hide unused RDO menu items
+   ============================================ */
+
+/* Top section: Boats, Trains, Campfires, Gang Hideouts, Dynamic Bounties */
+.menu-option[data-type="boats"],
+.menu-option[data-type="trains"],
+.menu-option[data-type="campfires"],
+.menu-option[data-type="hideouts"],
+.menu-option[data-type="dynamic_bounties"] {
+  display: none !important;
+}
+
+/* Player Camps */
+.menu-option[data-type="camps"],
+.menu-hidden[data-type="camps"] {
+  display: none !important;
+}
+
+/* Shops */
+.menu-option[data-type="shops"],
+.menu-hidden[data-type="shops"] {
+  display: none !important;
+}
+
+/* Free Roam Events */
+.menu-option[data-type="fme"],
+.menu-hidden[data-type="fme"] {
+  display: none !important;
+}
+
+/* Missions/GFH */
+.menu-option[data-type="gfh"],
+.menu-hidden[data-type="gfh"] {
+  display: none !important;
+}
+
+/* Random Encounters */
+.menu-option[data-type="encounters"],
+.menu-hidden[data-type="encounters"] {
+  display: none !important;
+}
+
+/* Legendary Animals */
+.menu-option[data-type="legendary_animals"],
+.menu-hidden[data-type="legendary_animals"] {
+  display: none !important;
+}
+
+/* ALL Bounties + header */
+h2[data-text="menu.bounties"] {
+  display: none !important;
+}
+.menu-option[data-type="bounty_board_track"],
+.menu-hidden[data-type="bounty_board_track"],
+.menu-option[data-type="bounty_board_stakeout"],
+.menu-hidden[data-type="bounty_board_stakeout"],
+.menu-option[data-type="bounty_hideout"],
+.menu-hidden[data-type="bounty_hideout"],
+.menu-option[data-type="bounty_board_known_target"],
+.menu-hidden[data-type="bounty_board_known_target"],
+.menu-option[data-type="bounty_board_lure"],
+.menu-hidden[data-type="bounty_board_lure"],
+.menu-option[data-type="bounty_timed"],
+.menu-hidden[data-type="bounty_timed"],
+.menu-option[data-type="bounty_board_caged_target"],
+.menu-hidden[data-type="bounty_board_caged_target"] {
+  display: none !important;
+}
+
+/* Utilities: Madam Nazar */
+.menu-option[data-type="nazar"] {
+  display: none !important;
+}
+
+/* Utilities: Fast Travel */
+.menu-option[data-type="fasttravel"] {
+  display: none !important;
+}
+
+/* Utilities: Treasures */
+.menu-option[data-type="treasure"],
+.menu-hidden[data-type="treasure"] {
+  display: none !important;
+}
+
+/* Utilities: Daily Challenge Locations */
+.menu-option[data-type="daily_locations"] {
+  display: none !important;
+}
+
+/* Utilities: Animal Transform */
+.menu-option[data-type="harrietum_animals"] {
+  display: none !important;
+}
+
+/* Utilities: Iconography/Discoverables */
+.menu-option[data-type="discoverables"],
+.menu-hidden[data-type="discoverables"] {
+  display: none !important;
+}
+
+/* Utilities: Singleplayer */
+.menu-option[data-type="singleplayer"],
+.menu-hidden[data-type="singleplayer"] {
+  display: none !important;
 }
