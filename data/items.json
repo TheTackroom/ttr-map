@@ -1204,20 +1204,32 @@
     "key": "ttr_cattle",
     "locations": [
       {
+        "text": "Cattle Herd Location",
         "x": -63.8991,
-        "y": 117.9962
+        "y": 117.9962,
+        "desc": "Round up a herd of lost livestock and bring them to a seller on the map (marked Bull Head in-game).",
+        "img": "cow_herding.png"
       },
       {
+        "text": "Cattle Herd Location",
         "x": -49.0735,
-        "y": 146.9469
+        "y": 146.9469,
+        "desc": "Round up a herd of lost livestock and bring them to a seller on the map (marked Bull Head in-game).",
+        "img": "cow_herding.png"
       },
       {
+        "text": "Cattle Herd Location",
         "x": -86.1279,
-        "y": 124.0597
+        "y": 124.0597,
+        "desc": "Round up a herd of lost livestock and bring them to a seller on the map (marked Bull Head in-game).",
+        "img": "cow_herding.png"
       },
       {
+        "text": "Cattle Herd Location",
         "x": -70.5659,
-        "y": 138.8557
+        "y": 138.8557,
+        "desc": "Round up a herd of lost livestock and bring them to a seller on the map (marked Bull Head in-game).",
+        "img": "cow_herding.png"
       }
     ]
   },
