@@ -1,12 +1,18 @@
 class Marker {
-  constructor(text, lat, lng, category, subdata, size) {
+  constructor(text, lat, lng, category, subdata, size, desc, img) {
     this.text = text;
     this.lat = lat;
     this.lng = lng;
     this.category = category;
     this.subdata = subdata;
     this.size = size;
+    this.customDesc = desc || '';
+    this.customImg = img || '';
     this.title = (() => {
+      // TTR custom markers: use the text field directly as the title
+      if (category && category.startsWith('ttr_')) {
+        return this.text || Language.get(`map.${this.category}.name`);
+      }
       switch (category) {
         case 'fasttravel':
         case 'singleplayer':
@@ -36,6 +42,8 @@ class Marker {
       }
     })();
     this.description = (() => {
+      // TTR custom markers: use customDesc if available
+      if (this.customDesc) return this.customDesc;
       switch (category) {
         case 'fasttravel':
           return '';
@@ -50,8 +58,15 @@ class Marker {
   }
   updateMarkerContent(removeFromMapCallback) {
     const container = document.createElement('div');
+
+    // Build image HTML if available
+    const imgHtml = this.customImg
+      ? `<div class="marker-popup-img"><img src="assets/images/ttr_popups/${this.customImg}" alt="${this.title}" style="width:100%;max-height:200px;object-fit:cover;border-radius:4px;margin-bottom:8px;"></div>`
+      : '';
+
     container.innerHTML = `
       <h1>${this.title}</h1>
+      ${imgHtml}
       <span class="marker-content-wrapper">
         <p>${this.description}</p>
       </span>
