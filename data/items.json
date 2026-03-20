@@ -1085,114 +1085,345 @@
     "key": "ttr_wild_horses",
     "locations": [
       {
-        "text": "Wild Horse Spawn",
         "x": -72.6893,
         "y": 130.4978,
+        "text": "Wild Horse Spawn",
         "desc": "Wild horse spawn location. Catch a wild horse, when you adopt the breed changes into something else.",
         "img": "wild_horses.png"
       },
       {
-        "text": "Wild Horse Spawn",
         "x": -45.3911,
         "y": 70.6865,
+        "text": "Wild Horse Spawn",
         "desc": "Wild horse spawn location. Catch a wild horse, when you adopt the breed changes into something else.",
         "img": "wild_horses.png"
       },
       {
-        "text": "Wild Horse Spawn",
         "x": -61.8628,
         "y": 149.0851,
+        "text": "Wild Horse Spawn",
         "desc": "Wild horse spawn location. Catch a wild horse, when you adopt the breed changes into something else.",
         "img": "wild_horses.png"
       },
       {
-        "text": "Wild Horse Spawn",
         "x": -110.9224,
         "y": 17.4933,
+        "text": "Wild Horse Spawn",
         "desc": "Wild horse spawn location. Catch a wild horse, when you adopt the breed changes into something else.",
         "img": "wild_horses.png"
       },
       {
-        "text": "Wild Horse Spawn",
         "x": -29.568,
         "y": 81.1963,
+        "text": "Wild Horse Spawn",
         "desc": "Wild horse spawn location. Catch a wild horse, when you adopt the breed changes into something else.",
         "img": "wild_horses.png"
       },
       {
-        "text": "Wild Horse Spawn",
         "x": -50.9802,
         "y": 143.8686,
+        "text": "Wild Horse Spawn",
         "desc": "Wild horse spawn location. Catch a wild horse, when you adopt the breed changes into something else.",
         "img": "wild_horses.png"
       },
       {
-        "text": "Wild Horse Spawn",
         "x": -27.3643,
         "y": 154.3865,
+        "text": "Wild Horse Spawn",
         "desc": "Wild horse spawn location. Catch a wild horse, when you adopt the breed changes into something else.",
         "img": "wild_horses.png"
       },
       {
-        "text": "Wild Horse Spawn",
         "x": -49.2661,
         "y": 96.2192,
+        "text": "Wild Horse Spawn",
         "desc": "Wild horse spawn location. Catch a wild horse, when you adopt the breed changes into something else.",
         "img": "wild_horses.png"
       },
       {
-        "text": "Wild Horse Spawn",
         "x": -100.7447,
         "y": 84.1017,
+        "text": "Wild Horse Spawn",
         "desc": "Wild horse spawn location. Catch a wild horse, when you adopt the breed changes into something else.",
         "img": "wild_horses.png"
       },
       {
-        "text": "Wild Horse Spawn",
         "x": -173.0142,
         "y": 140.989,
+        "text": "Wild Horse Spawn",
         "desc": "Wild horse spawn location. Catch a wild horse, when you adopt the breed changes into something else.",
         "img": "wild_horses.png"
       },
       {
-        "text": "Wild Horse Spawn",
         "x": -170.2063,
         "y": 134.8988,
+        "text": "Wild Horse Spawn",
         "desc": "Wild horse spawn location. Catch a wild horse, when you adopt the breed changes into something else.",
         "img": "wild_horses.png"
       },
       {
-        "text": "Wild Horse Spawn",
         "x": -162.7683,
         "y": 134.4703,
+        "text": "Wild Horse Spawn",
         "desc": "Wild horse spawn location. Catch a wild horse, when you adopt the breed changes into something else.",
         "img": "wild_horses.png"
       },
       {
-        "text": "Wild Horse Spawn",
         "x": -157.5829,
         "y": 141.7049,
+        "text": "Wild Horse Spawn",
         "desc": "Wild horse spawn location. Catch a wild horse, when you adopt the breed changes into something else.",
         "img": "wild_horses.png"
       },
       {
-        "text": "Wild Horse Spawn",
         "x": -174.4093,
         "y": 135.9616,
+        "text": "Wild Horse Spawn",
         "desc": "Wild horse spawn location. Catch a wild horse, when you adopt the breed changes into something else.",
         "img": "wild_horses.png"
       },
       {
-        "text": "Wild Horse Spawn",
         "x": -172.8314,
         "y": 123.1389,
+        "text": "Wild Horse Spawn",
         "desc": "Wild horse spawn location. Catch a wild horse, when you adopt the breed changes into something else.",
         "img": "wild_horses.png"
       },
       {
-        "text": "Wild Horse Spawn",
         "x": -180.824,
         "y": 124.0972,
+        "text": "Wild Horse Spawn",
+        "desc": "Wild horse spawn location. Catch a wild horse, when you adopt the breed changes into something else.",
+        "img": "wild_horses.png"
+      },
+      {
+        "x": -117.0234,
+        "y": 22.8047,
+        "text": "Wild Horse Spawn",
+        "desc": "Wild horse spawn location. Catch a wild horse, when you adopt the breed changes into something else.",
+        "img": "wild_horses.png"
+      },
+      {
+        "x": -118.4147,
+        "y": 32.7715,
+        "text": "Wild Horse Spawn",
+        "desc": "Wild horse spawn location. Catch a wild horse, when you adopt the breed changes into something else.",
+        "img": "wild_horses.png"
+      },
+      {
+        "x": -119.3174,
+        "y": 39.8643,
+        "text": "Wild Horse Spawn",
+        "desc": "Wild horse spawn location. Catch a wild horse, when you adopt the breed changes into something else.",
+        "img": "wild_horses.png"
+      },
+      {
+        "x": -118.7772,
+        "y": 52.8381,
+        "text": "Wild Horse Spawn",
+        "desc": "Wild horse spawn location. Catch a wild horse, when you adopt the breed changes into something else.",
+        "img": "wild_horses.png"
+      },
+      {
+        "x": -105.7186,
+        "y": 39.3559,
+        "text": "Wild Horse Spawn",
+        "desc": "Wild horse spawn location. Catch a wild horse, when you adopt the breed changes into something else.",
+        "img": "wild_horses.png"
+      },
+      {
+        "x": -103.9288,
+        "y": 47.3203,
+        "text": "Wild Horse Spawn",
+        "desc": "Wild horse spawn location. Catch a wild horse, when you adopt the breed changes into something else.",
+        "img": "wild_horses.png"
+      },
+      {
+        "x": -110.5799,
+        "y": 56.4073,
+        "text": "Wild Horse Spawn",
+        "desc": "Wild horse spawn location. Catch a wild horse, when you adopt the breed changes into something else.",
+        "img": "wild_horses.png"
+      },
+      {
+        "x": -115.0916,
+        "y": 56.1637,
+        "text": "Wild Horse Spawn",
+        "desc": "Wild horse spawn location. Catch a wild horse, when you adopt the breed changes into something else.",
+        "img": "wild_horses.png"
+      },
+      {
+        "x": -112.9205,
+        "y": 60.7496,
+        "text": "Wild Horse Spawn",
+        "desc": "Wild horse spawn location. Catch a wild horse, when you adopt the breed changes into something else.",
+        "img": "wild_horses.png"
+      },
+      {
+        "x": -95.6996,
+        "y": 58.3031,
+        "text": "Wild Horse Spawn",
+        "desc": "Wild horse spawn location. Catch a wild horse, when you adopt the breed changes into something else.",
+        "img": "wild_horses.png"
+      },
+      {
+        "x": -105.9739,
+        "y": 67.8797,
+        "text": "Wild Horse Spawn",
+        "desc": "Wild horse spawn location. Catch a wild horse, when you adopt the breed changes into something else.",
+        "img": "wild_horses.png"
+      },
+      {
+        "x": -107.8327,
+        "y": 73.3442,
+        "text": "Wild Horse Spawn",
+        "desc": "Wild horse spawn location. Catch a wild horse, when you adopt the breed changes into something else.",
+        "img": "wild_horses.png"
+      },
+      {
+        "x": -112.1774,
+        "y": 74.6207,
+        "text": "Wild Horse Spawn",
+        "desc": "Wild horse spawn location. Catch a wild horse, when you adopt the breed changes into something else.",
+        "img": "wild_horses.png"
+      },
+      {
+        "x": -103.8912,
+        "y": 89.8046,
+        "text": "Wild Horse Spawn",
+        "desc": "Wild horse spawn location. Catch a wild horse, when you adopt the breed changes into something else.",
+        "img": "wild_horses.png"
+      },
+      {
+        "x": -92.0441,
+        "y": 97.7773,
+        "text": "Wild Horse Spawn",
+        "desc": "Wild horse spawn location. Catch a wild horse, when you adopt the breed changes into something else.",
+        "img": "wild_horses.png"
+      },
+      {
+        "x": -87.9906,
+        "y": 88.125,
+        "text": "Wild Horse Spawn",
+        "desc": "Wild horse spawn location. Catch a wild horse, when you adopt the breed changes into something else.",
+        "img": "wild_horses.png"
+      },
+      {
+        "x": -88.5729,
+        "y": 79.1669,
+        "text": "Wild Horse Spawn",
+        "desc": "Wild horse spawn location. Catch a wild horse, when you adopt the breed changes into something else.",
+        "img": "wild_horses.png"
+      },
+      {
+        "x": -80.0851,
+        "y": 89.3791,
+        "text": "Wild Horse Spawn",
+        "desc": "Wild horse spawn location. Catch a wild horse, when you adopt the breed changes into something else.",
+        "img": "wild_horses.png"
+      },
+      {
+        "x": -76.9498,
+        "y": 100.3079,
+        "text": "Wild Horse Spawn",
+        "desc": "Wild horse spawn location. Catch a wild horse, when you adopt the breed changes into something else.",
+        "img": "wild_horses.png"
+      },
+      {
+        "x": -54.5546,
+        "y": 71.5078,
+        "text": "Wild Horse Spawn",
+        "desc": "Wild horse spawn location. Catch a wild horse, when you adopt the breed changes into something else.",
+        "img": "wild_horses.png"
+      },
+      {
+        "x": -56.9733,
+        "y": 82.9293,
+        "text": "Wild Horse Spawn",
+        "desc": "Wild horse spawn location. Catch a wild horse, when you adopt the breed changes into something else.",
+        "img": "wild_horses.png"
+      },
+      {
+        "x": -51.5313,
+        "y": 96.7023,
+        "text": "Wild Horse Spawn",
+        "desc": "Wild horse spawn location. Catch a wild horse, when you adopt the breed changes into something else.",
+        "img": "wild_horses.png"
+      },
+      {
+        "x": -37.4895,
+        "y": 81.9215,
+        "text": "Wild Horse Spawn",
+        "desc": "Wild horse spawn location. Catch a wild horse, when you adopt the breed changes into something else.",
+        "img": "wild_horses.png"
+      },
+      {
+        "x": -32.4954,
+        "y": 116.522,
+        "text": "Wild Horse Spawn",
+        "desc": "Wild horse spawn location. Catch a wild horse, when you adopt the breed changes into something else.",
+        "img": "wild_horses.png"
+      },
+      {
+        "x": -32.9433,
+        "y": 122.1208,
+        "text": "Wild Horse Spawn",
+        "desc": "Wild horse spawn location. Catch a wild horse, when you adopt the breed changes into something else.",
+        "img": "wild_horses.png"
+      },
+      {
+        "x": -30.6142,
+        "y": 125.0994,
+        "text": "Wild Horse Spawn",
+        "desc": "Wild horse spawn location. Catch a wild horse, when you adopt the breed changes into something else.",
+        "img": "wild_horses.png"
+      },
+      {
+        "x": -38.0942,
+        "y": 120.6651,
+        "text": "Wild Horse Spawn",
+        "desc": "Wild horse spawn location. Catch a wild horse, when you adopt the breed changes into something else.",
+        "img": "wild_horses.png"
+      },
+      {
+        "x": -47.5897,
+        "y": 119.635,
+        "text": "Wild Horse Spawn",
+        "desc": "Wild horse spawn location. Catch a wild horse, when you adopt the breed changes into something else.",
+        "img": "wild_horses.png"
+      },
+      {
+        "x": -63.8262,
+        "y": 114.2377,
+        "text": "Wild Horse Spawn",
+        "desc": "Wild horse spawn location. Catch a wild horse, when you adopt the breed changes into something else.",
+        "img": "wild_horses.png"
+      },
+      {
+        "x": -63.3111,
+        "y": 118.2689,
+        "text": "Wild Horse Spawn",
+        "desc": "Wild horse spawn location. Catch a wild horse, when you adopt the breed changes into something else.",
+        "img": "wild_horses.png"
+      },
+      {
+        "x": -62.5721,
+        "y": 125.7936,
+        "text": "Wild Horse Spawn",
+        "desc": "Wild horse spawn location. Catch a wild horse, when you adopt the breed changes into something else.",
+        "img": "wild_horses.png"
+      },
+      {
+        "x": -90.8348,
+        "y": 125.9952,
+        "text": "Wild Horse Spawn",
+        "desc": "Wild horse spawn location. Catch a wild horse, when you adopt the breed changes into something else.",
+        "img": "wild_horses.png"
+      },
+      {
+        "x": -84.6761,
+        "y": 133.184,
+        "text": "Wild Horse Spawn",
         "desc": "Wild horse spawn location. Catch a wild horse, when you adopt the breed changes into something else.",
         "img": "wild_horses.png"
       }
