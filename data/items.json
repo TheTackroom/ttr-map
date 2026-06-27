@@ -2179,15 +2179,15 @@
         "img": "collectable.png"
       },
       {
-        "x": -109.6953125,
-        "y": 40.0,
+        "x": -111.6861,
+        "y": 43.4748,
         "text": "Marvels of Travels - Card #9",
         "desc": "Collectible location.",
         "img": "collectable.png"
       },
       {
-        "x": -111.68,
-        "y": 43.47,
+        "x": -109.6159,
+        "y": 39.4936,
         "text": "Prominent Americans - Card #9",
         "desc": "Collectible location.",
         "img": "collectable.png"
@@ -3381,6 +3381,440 @@
         "text": "Bracelet #8",
         "desc": "Collectible location.",
         "img": "collectable.png"
+      }
+    ]
+  },
+  {
+    "color": "yellow",
+    "disabled": true,
+    "key": "ttr_wild_beehives",
+    "locations": [
+      {
+        "x": -50.7685,
+        "y": 107.9314,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Valentine Area). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -52.0471,
+        "y": 108.2836,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Valentine Area). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -50.6458,
+        "y": 104.2441,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Valentine Area). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -48.3403,
+        "y": 105.4294,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Valentine Area). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -49.7552,
+        "y": 108.8901,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Valentine Area). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -51.918,
+        "y": 109.2206,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Valentine Area). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -49.983,
+        "y": 110.3869,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Valentine Area). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -60.8926,
+        "y": 107.327,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Valentine Area). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -56.3932,
+        "y": 99.2571,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Valentine Area). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -48.0502,
+        "y": 113.1954,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Valentine Area). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -59.3731,
+        "y": 106.1646,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Valentine Area). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -58.5268,
+        "y": 109.9538,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Valentine Area). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -42.3976,
+        "y": 114.1708,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Ambarino). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -40.1181,
+        "y": 116.5391,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Ambarino). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -38.5649,
+        "y": 118.3517,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Ambarino). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -43.9449,
+        "y": 121.2684,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Ambarino). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -40.7874,
+        "y": 124.0508,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Ambarino). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -37.5865,
+        "y": 122.4795,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Ambarino). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -32.4783,
+        "y": 120.724,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Ambarino). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -29.3415,
+        "y": 122.1128,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Ambarino). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -36.3895,
+        "y": 116.395,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Ambarino). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -41.0851,
+        "y": 133.3699,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Ambarino). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -42.6382,
+        "y": 138.5158,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Ambarino). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -37.7418,
+        "y": 141.6178,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Ambarino). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -36.2739,
+        "y": 144.1881,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Ambarino). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -33.0453,
+        "y": 148.1573,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Ambarino). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -28.4507,
+        "y": 149.4841,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Ambarino). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -27.2851,
+        "y": 153.1594,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Ambarino). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -36.7495,
+        "y": 159.2349,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Ambarino). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -37.265,
+        "y": 158.809,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Ambarino). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -37.7719,
+        "y": 150.8322,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Ambarino). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -34.5496,
+        "y": 122.9099,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Grizzlies East). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -35.803,
+        "y": 122.6108,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Grizzlies East). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -38.3359,
+        "y": 123.1974,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Grizzlies East). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -44.8276,
+        "y": 126.5306,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Grizzlies East). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -46.703,
+        "y": 125.9865,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Grizzlies East). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -47.5427,
+        "y": 128.0914,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Grizzlies East). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -48.4252,
+        "y": 129.8444,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Grizzlies East). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -49.6005,
+        "y": 129.1355,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Grizzlies East). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -50.5486,
+        "y": 133.6571,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Grizzlies East). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -45.6826,
+        "y": 130.6996,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Grizzlies East). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -43.2104,
+        "y": 136.3326,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Grizzlies East). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -64.9157,
+        "y": 134.0885,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Lemoyne). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -65.8619,
+        "y": 131.192,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Lemoyne). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -67.131,
+        "y": 128.1201,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Lemoyne). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -69.9085,
+        "y": 125.1759,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Lemoyne). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -70.6937,
+        "y": 122.7869,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Lemoyne). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -71.7828,
+        "y": 125.792,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Lemoyne). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -72.8038,
+        "y": 127.6574,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Lemoyne). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -76.314,
+        "y": 128.725,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Lemoyne). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -78.3102,
+        "y": 132.6786,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Lemoyne). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -88.0256,
+        "y": 133.3675,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (Lemoyne). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -55.4652,
+        "y": 92.5007,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (West Elizabeth). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -54.3511,
+        "y": 90.3709,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (West Elizabeth). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -53.4175,
+        "y": 87.8708,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (West Elizabeth). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -51.3433,
+        "y": 79.076,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (West Elizabeth). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -50.5864,
+        "y": 71.949,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (West Elizabeth). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -56.4065,
+        "y": 72.8756,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (West Elizabeth). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -65.8352,
+        "y": 67.6329,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (West Elizabeth). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -70.2211,
+        "y": 69.1213,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (West Elizabeth). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
+      },
+      {
+        "x": -60.136,
+        "y": 84.9322,
+        "text": "Wild Beehive",
+        "desc": "Wild beehive location (West Elizabeth). Bring an empty bee jar to harvest honey, bees, and queen bees.",
+        "img": "wild_beehive.png"
       }
     ]
   }
